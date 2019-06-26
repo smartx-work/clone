@@ -1,5 +1,5 @@
 {
-  "name": "clone",
+  "name": "@smartx/clone",
   "version": "1.0.0",
   "main": "index.js",
   "license": "BSD-2-Clause"
